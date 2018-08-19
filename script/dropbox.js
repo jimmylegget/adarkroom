@@ -1,7 +1,7 @@
 (function (Engine, Events, Dropbox, $) {
 
   /**
-   * Module that enables a save of the gamestate to the dropbox datastore
+   * SAVE GAME !  to the dropbox datastore
    * @see https://www.dropbox.com/developers/datastore
    *
    * The dropbox datastore (dbds) connector lets you save your data to your own dropbox datastore
